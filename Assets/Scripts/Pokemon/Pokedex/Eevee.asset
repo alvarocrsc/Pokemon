@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
+  m_Name: Eevee
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  ID: 133
+  name: Eevee
+  description: Because its genetic makeup is irregular, it quickly changes its form
+    due to a variety of causes.
+  frontSprite: {fileID: -1669221820070231874, guid: 1eedde41fe1b043c6a0cbf95105371e2, type: 3}
+  backSprite: {fileID: 6744692962921506890, guid: 91bd99208cd064f368c0c298f8489faf, type: 3}
+  type1: 1
+  type2: 0
+  maxHP: 55
+  attack: 55
+  defense: 50
+  spAttack: 45
+  spDefense: 65
+  speed: 55
+  learnableMoves: []

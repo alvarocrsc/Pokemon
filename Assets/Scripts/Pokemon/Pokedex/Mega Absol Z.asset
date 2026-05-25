@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
+  m_Name: Mega Absol Z
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  ID: 359
+  name: Mega Absol Z
+  description: It appears from deep in the mountains to warn people about upcoming
+    disasters it has sensed with its horn.
+  frontSprite: {fileID: 41990189176982283, guid: 4e72db44a9e1e46a79361ac35de5f3ef, type: 3}
+  backSprite: {fileID: -5155925156400717593, guid: dea71d6ffd3964d529f2326648d14ad7, type: 3}
+  type1: 16
+  type2: 14
+  maxHP: 65
+  attack: 154
+  defense: 60
+  spAttack: 75
+  spDefense: 60
+  speed: 151
+  learnableMoves:
+  - move: {fileID: 11400000, guid: b0e2840a44f0a8549a40caf1b72ef847, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: e924ac40c6b565148a5db9c9aebd51a4, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 6f229e9a9bbc38c4fb485b9a9f7d6ba8, type: 2}
+    level: 4
+  - move: {fileID: 11400000, guid: 5fdd734c331b0cd458717184b03214cd, type: 2}
+    level: 9
+  - move: {fileID: 11400000, guid: ab0b2827a1022dc4aa853b44738e3c17, type: 2}
+    level: 12
+  - move: {fileID: 11400000, guid: 17462ff74e842c848b4e98a6ebfd0c81, type: 2}
+    level: 17
+  - move: {fileID: 11400000, guid: 63ab8da59604b0d45a96cd0dbb11e9c7, type: 2}
+    level: 20
+  - move: {fileID: 11400000, guid: 2628f44c60b64fb41bafd6d81deb761b, type: 2}
+    level: 25
+  - move: {fileID: 11400000, guid: 280a49f2d83d6e347bd8d8b581bc9fda, type: 2}
+    level: 28
+  - move: {fileID: 11400000, guid: 3c50d727acad69248988d9cc2422d939, type: 2}
+    level: 33
+  - move: {fileID: 11400000, guid: e6f4da7c1d8d29d44ad44f970223ab9a, type: 2}
+    level: 36
+  - move: {fileID: 11400000, guid: 7a293bab34836734d9256e1acc1c3d29, type: 2}
+    level: 41
+  - move: {fileID: 11400000, guid: c742d8db5d3fa3040b3211c7c31746cc, type: 2}
+    level: 44
+  - move: {fileID: 11400000, guid: 1c27d1a4d2eef8a4281910680ffc256d, type: 2}
+    level: 49
+  - move: {fileID: 11400000, guid: 6292906337d1fa942a01ddf3411addca, type: 2}
+    level: 52
+  - move: {fileID: 11400000, guid: ba434968c3e61a649b36d5ec2464e3c3, type: 2}
+    level: 57
+  - move: {fileID: 11400000, guid: 7ca41480a7832294d80f33e0a9256a3f, type: 2}
+    level: 60
+  - move: {fileID: 11400000, guid: 6731b47de3bbe394a9868db645f63282, type: 2}
+    level: 65

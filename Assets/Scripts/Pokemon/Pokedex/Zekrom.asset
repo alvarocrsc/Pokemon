@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
+  m_Name: Zekrom
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  ID: 644
+  name: Zekrom
+  description: "This Pok\xE9mon appears in legends. In its tail, it has a giant generator
+    that creates electricity."
+  frontSprite: {fileID: 101733631465711877, guid: eed0dca76e8be47f5ae0a7898fd16850, type: 3}
+  backSprite: {fileID: -4607174945722097698, guid: 810a8bf7c0d9e4f6fb88af1663904929, type: 3}
+  type1: 15
+  type2: 4
+  maxHP: 100
+  attack: 150
+  defense: 120
+  spAttack: 120
+  spDefense: 100
+  speed: 90
+  learnableMoves:
+  - move: {fileID: 11400000, guid: cb119e29e55a52d438c46a7672d58e6d, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: a801fc686bc4aa8458d49c9deb7a365e, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 3db7e28ea6d83b94bbf2f8491c5c5b3f, type: 2}
+    level: 8
+  - move: {fileID: 11400000, guid: 4331cfae5eb9eb548af7bac4b1140de4, type: 2}
+    level: 15
+  - move: {fileID: 11400000, guid: 9f69373aaa8e75c43aff63a28a799d0a, type: 2}
+    level: 22
+  - move: {fileID: 11400000, guid: 2c051f02d45817d458f8014629281c0a, type: 2}
+    level: 29
+  - move: {fileID: 11400000, guid: e6f4da7c1d8d29d44ad44f970223ab9a, type: 2}
+    level: 36
+  - move: {fileID: 11400000, guid: dd37edbe88254bc41820107f6b7d775a, type: 2}
+    level: 43
+  - move: {fileID: 11400000, guid: efcb1ca861ebb8949b638d4d4b160a9a, type: 2}
+    level: 50
+  - move: {fileID: 11400000, guid: 3bf501814624bbc41b7c3851880a3e8d, type: 2}
+    level: 54
+  - move: {fileID: 11400000, guid: dc70a31b85634a14faf14f6d3dfa56a2, type: 2}
+    level: 71
+  - move: {fileID: 11400000, guid: 0cbeb4c153234b34f9a6115e9bb1e8ec, type: 2}
+    level: 78
+  - move: {fileID: 11400000, guid: b55f8c9bedc65164396751253fdcaa15, type: 2}
+    level: 85
+  - move: {fileID: 11400000, guid: 448a75c96b461e34999cb568640ac146, type: 2}
+    level: 92
+  - move: {fileID: 11400000, guid: f49d52da07a58cc4ba5ee0fc5250cc8a, type: 2}
+    level: 100

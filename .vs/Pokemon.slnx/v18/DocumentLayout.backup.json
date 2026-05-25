@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\scripts\\battle\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\sprites\\emojione attribution.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\sprites\\emojione attribution.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmpro_surface.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_surface.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmpro_properties.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_properties.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmpro_mobile.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_mobile.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sprite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sprite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-surface-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-surface-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-surface.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-surface.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile-2-pass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile-2-pass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile masking.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile masking.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_sdf overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_bitmap-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\shaders\\sdffunctions.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\sdffunctions.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\resources\\linebreaking leading characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\resources\\linebreaking leading characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\resources\\linebreaking following characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\resources\\linebreaking following characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\textmesh pro\\fonts\\liberationsans - ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\fonts\\liberationsans - ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\scripts\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\scripts\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\scripts\\pokemon\\pokemonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pokemon\\pokemonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\scripts\\moves\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moves\\movebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\\u00E1lvaro\\documents\\dev personal projects\\unity\\pokemon\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Battle\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Battle\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:28:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmojiOne Attribution.txt",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-25T01:23:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMPro_Surface.cginc",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMPro_Properties.cginc",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TMPro_Mobile.cginc",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TMPro.cginc",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TMP_Sprite.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TMP_SDF-Surface-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TMP_SDF-Surface.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:59.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TMP_SDF-Mobile-2-Pass.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TMP_SDF-Mobile SSD.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TMP_SDF-Mobile Overlay.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TMP_SDF-Mobile Masking.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TMP_SDF.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TMP_SDF SSD.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TMP_SDF Overlay.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TMP_Bitmap-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TMP_Bitmap-Custom-Atlas.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:58.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TMP_Bitmap.shader",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SDFFunctions.hlsl",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-25T01:23:57.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LineBreaking Leading Characters.txt",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-25T01:23:56.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LineBreaking Following Characters.txt",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-25T01:23:56.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LiberationSans - OFL.txt",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-25T01:23:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Moves\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moves\\Move.cs",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Moves\\Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moves\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T00:17:29.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MoveBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Moves\\MoveBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moves\\MoveBase.cs",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Moves\\MoveBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moves\\MoveBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:42:38.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Pokemon\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemon\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Pokemon\\Pokemon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemon\\Pokemon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:00:06.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PokemonBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Pokemon\\PokemonBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pokemon\\PokemonBase.cs",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\Pokemon\\PokemonBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pokemon\\PokemonBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:12:16.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\u00C1lvaro\\Documents\\Dev Personal Projects\\Unity\\Pokemon\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwFYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T01:21:05.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

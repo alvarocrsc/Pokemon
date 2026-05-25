@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
+  m_Name: Hattrem
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  ID: 857
+  name: Hattrem
+  description: Using the braids on its head, it pummels foes to get them to quiet
+    down. One blow from those braids would knock out a professional boxer
+  frontSprite: {fileID: -2075464164232722657, guid: 7d167ab195a384126a8f4bbc57e4c823, type: 3}
+  backSprite: {fileID: 2192049224456188896, guid: ffd22ffdecbf144609c7f4f5e3a4f391, type: 3}
+  type1: 11
+  type2: 0
+  maxHP: 57
+  attack: 40
+  defense: 65
+  spAttack: 86
+  spDefense: 73
+  speed: 49
+  learnableMoves:
+  - move: {fileID: 11400000, guid: 312df69d6e1d30f4ca342d09850eada7, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 4bc765159b47ac049bfa65967a18755c, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 3129bc1af52325a4c9d64bc472cb28ec, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 0d201403128e9d14e8d0a26b555ce6cd, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 11def4088e2a92040ace0d83dbfb6574, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: af6eee114d209324eb49cf4943dfd56a, type: 2}
+    level: 15
+  - move: {fileID: 11400000, guid: 29c522215e1c0a24ab45f592047f79e6, type: 2}
+    level: 20
+  - move: {fileID: 11400000, guid: 246f4d9ad450db2449ca9786d6c7b8e6, type: 2}
+    level: 25
+  - move: {fileID: 11400000, guid: 67a029cc61cb1664581fe2c79ea02d41, type: 2}
+    level: 30
+  - move: {fileID: 11400000, guid: a59a398054db94443857ebe642d42bf8, type: 2}
+    level: 37
+  - move: {fileID: 11400000, guid: a59b15f8e2bce934780e1bf7076e282c, type: 2}
+    level: 44
+  - move: {fileID: 11400000, guid: acdb895b1b47b724ebec00f1f0df4d3c, type: 2}
+    level: 51

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
+  m_Name: Kingambit
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  ID: 983
+  name: Kingambit
+  description: Only a Bisharp that stands above all others in its vast army can evolve
+    into Kingambit.
+  frontSprite: {fileID: -7402655379966651042, guid: a340cc51d48134729b2985a07edd4fef, type: 3}
+  backSprite: {fileID: 1826916047586282349, guid: 4b70210ae079d438fb7f2519fb7d079a, type: 3}
+  type1: 16
+  type2: 18
+  maxHP: 100
+  attack: 135
+  defense: 120
+  spAttack: 60
+  spDefense: 85
+  speed: 50
+  learnableMoves: []

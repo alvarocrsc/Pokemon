@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
+  m_Name: Zorua
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
+  ID: 570
+  name: Zorua
+  description: "To protect themselves from danger, they hide their true identities
+    by transforming into people and Pok\xE9mon."
+  frontSprite: {fileID: -637402014546530513, guid: 71ed1be974cea4e4c89f4ea86fb83d15, type: 3}
+  backSprite: {fileID: 5529537252654311912, guid: 1129a892b0b174745b2f1a889b65766d, type: 3}
+  type1: 16
+  type2: 0
+  maxHP: 40
+  attack: 65
+  defense: 40
+  spAttack: 80
+  spDefense: 40
+  speed: 65
+  learnableMoves:
+  - move: {fileID: 11400000, guid: 6f229e9a9bbc38c4fb485b9a9f7d6ba8, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: e924ac40c6b565148a5db9c9aebd51a4, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 63ab8da59604b0d45a96cd0dbb11e9c7, type: 2}
+    level: 5
+  - move: {fileID: 11400000, guid: 5c5fe7743d9fac24d9d8c4803045a7b7, type: 2}
+    level: 9
+  - move: {fileID: 11400000, guid: 84c380d428b416044839aaca5e5428ab, type: 2}
+    level: 13
+  - move: {fileID: 11400000, guid: 2feb0364d839a5344b58fec7e9388052, type: 2}
+    level: 17
+  - move: {fileID: 11400000, guid: fffd57fc96784d24eae36f6cecb64e31, type: 2}
+    level: 21
+  - move: {fileID: 11400000, guid: 5fdd734c331b0cd458717184b03214cd, type: 2}
+    level: 25
+  - move: {fileID: 11400000, guid: e4c2ca2bcb58f4940a29a712f94a1caf, type: 2}
+    level: 29
+  - move: {fileID: 11400000, guid: 5b1b8707db124b34ebdccb2230e13476, type: 2}
+    level: 33
+  - move: {fileID: 11400000, guid: 0d0c1336f6cedf44185a890f72d68517, type: 2}
+    level: 37
+  - move: {fileID: 11400000, guid: 5d1c9b5efae18b9439f1232785f64216, type: 2}
+    level: 41
+  - move: {fileID: 11400000, guid: ca84b6c8574b85f48aabc7ac13deed19, type: 2}
+    level: 45
+  - move: {fileID: 11400000, guid: ec35943c14e24934c9d74298879bd1ba, type: 2}
+    level: 49
+  - move: {fileID: 11400000, guid: 3db7e28ea6d83b94bbf2f8491c5c5b3f, type: 2}
+    level: 53
+  - move: {fileID: 11400000, guid: 053a42a979817184f999c5f7479d97e8, type: 2}
+    level: 57
