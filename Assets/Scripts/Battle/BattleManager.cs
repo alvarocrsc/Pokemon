@@ -4,6 +4,11 @@ public class BattleManager : MonoBehaviour
 {
     [SerializeField] BattleUnit playerUnit;
     [SerializeField] BattleHUD playerHUD;
+    
+    [SerializeField] BattleUnit enemyUnit;
+    [SerializeField] BattleHUD enemyHUD;
+
+    [SerializeField] BattleDialogBox battleDialogBox;
 
     private void Start()
     {
@@ -14,5 +19,10 @@ public class BattleManager : MonoBehaviour
     {
         playerUnit.SetupPokemon();
         playerHUD.SetPokemonData(playerUnit.Pokemon);
+        
+        enemyUnit.SetupPokemon();
+        enemyHUD.SetPokemonData(enemyUnit.Pokemon);
+        
+        battleDialogBox.SetDialog($"A wild {enemyUnit.Pokemon.Base.Name} appeared!");
     }
 }
