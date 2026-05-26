@@ -10,16 +10,34 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4549c136d04e5834a87deab02118a396, type: 3}
-  m_Name: Mega Absol Z
+  m_Name: Mega Absol
   m_EditorClassIdentifier: Assembly-CSharp::PokemonBase
   ID: 359
-  name: Mega Absol Z
+  name: Mega Absol
   description: It appears from deep in the mountains to warn people about upcoming
     disasters it has sensed with its horn.
-  frontSprite: {fileID: 41990189176982283, guid: 4e72db44a9e1e46a79361ac35de5f3ef, type: 3}
-  backSprite: {fileID: -5155925156400717593, guid: dea71d6ffd3964d529f2326648d14ad7, type: 3}
+  frontSprite: {fileID: 1657819034891632935, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  backSprite: {fileID: -1360671289238844089, guid: b3e8cb7c29e07496bbca9033e4f55f82, type: 3}
+  frontSprites:
+  - {fileID: 1657819034891632935, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 1023041248888013209, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 5227191215257341169, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: -1312367434066218269, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: -7196131773144877042, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 9102029374708620021, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: -7847629146731994508, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 7379978725644131581, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 4470113641465979712, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 7577302994054592897, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 8583991109001344621, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 570909544463446216, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 8792364484791789479, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 5583445789922232795, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 6216582130304657449, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  - {fileID: 4215174290056245619, guid: 48d1382d448ed4afb92e58c4e6e30d8a, type: 3}
+  backSprites: []
   type1: 16
-  type2: 14
+  type2: 0
   maxHP: 65
   attack: 154
   defense: 60

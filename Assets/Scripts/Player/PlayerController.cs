@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 [RequireComponent(typeof(Animator))]
 
@@ -15,12 +17,14 @@ public class PlayerController : MonoBehaviour
 
     public LayerMask solidObjectsLayer, pokemonLayer;
 
+    public event Action OnPokemonEncountered;
+
     void Awake()
     {
         _animator = GetComponent<Animator>();
     }
 
-    private void Update()
+    public void HandleUpdate()
     {
         if (!isMoving)
         {
@@ -84,7 +88,7 @@ public class PlayerController : MonoBehaviour
         {
             if (Random.Range(0, 100) < 10)
             {
-                Debug.Log("Encountered a wild Pokemon!");
+                OnPokemonEncountered();
             }
         }
     }
