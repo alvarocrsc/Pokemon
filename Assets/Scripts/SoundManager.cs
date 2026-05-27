@@ -39,6 +39,8 @@ public class SoundManager : MonoBehaviour
 
     public void RandomSoundEffect(params AudioClip[] clips)
     {
+        if (clips == null || clips.Length == 0) return;
+
         int index = Random.Range(0, clips.Length);
         float pitch = Random.Range(pitchRange.x, pitchRange.y);
 
